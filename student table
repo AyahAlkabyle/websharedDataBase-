@@ -14,3 +14,5 @@ CREATE TABLE Student (
 ALTER TABLE Student
 ADD FOREIGN KEY (major) REFERENCES major(majorname);
 ALTER TABLE Student  ADD CONSTRAINT SEXCHECK CHECK (SEX IN ('M','F'));
+hejjcuefherfgber guoferk gmnveroivnermvguern vguoerebvnr vgrvb
+lbvdnvewoirvfgn evgferinvfivfmvidrpnvrdjv
